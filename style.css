@@ -1,0 +1,15 @@
+h1 { background-color:blueviolet;
+    text-align: center;
+    }
+html{ background-color: turquoise;
+}
+table { border-collapse: collapse;
+    border: 1px solid purple;
+    width: 90vw; 
+    height:90vh;
+}
+tr, td, th{ border: 1px solid purple; 
+}
+.table { display: flex ;
+    justify-content: center;
+}
